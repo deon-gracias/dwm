@@ -10,6 +10,12 @@ For **Arch Linux**
 
     pacman -S xorg-xinit xorg
 
+### Dependencies
+
+For **Arch Linux**
+
+    pacman -S rxvt-unicode
+
 ## Installation
 
 Edit config.mk to match your local setup (dwm is installed into
