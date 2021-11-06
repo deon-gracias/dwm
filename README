@@ -6,6 +6,10 @@
 
 In order to build dwm you need the Xlib header files.
 
+For **Arch Linux**
+
+    pacman -S xorg-xinit xorg
+
 ## Installation
 
 Edit config.mk to match your local setup (dwm is installed into
@@ -18,7 +22,7 @@ necessary as root):
 
 ## Running dwm
 
-Add the following line to your .xinitrc to start dwm using startx:
+Add the following line to your **.xinitrc** to start dwm using startx:
 
     exec dwm
 
