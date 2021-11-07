@@ -14,7 +14,7 @@ For **Arch Linux**
 
 For **Arch Linux**
 
-    pacman -S rxvt-unicode
+    pacman -S rxvt-unicode libxft libxinerama
 
 ## Installation
 
