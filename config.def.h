@@ -5,8 +5,8 @@ static const unsigned int borderpx  = 1;        /* border pixel of windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { "Hack Nerd Fonts:size=10" };
-static const char dmenufont[]       = "Hack Nerd Fonts:size=10";
+static const char *fonts[]          = { "Hack Nerd Font:size=10" };
+static const char dmenufont[]       = "Hack Nerd Font:size=10";
 static const char col_background[]       = "#4361ee"; // Background Color
 static const char col_inactive[]       = "#444444"; // Inactive window border color
 static const char col_font[]       = "#ffffff"; // Font color
