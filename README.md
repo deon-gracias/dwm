@@ -12,9 +12,8 @@ For **Arch Linux**
 
 ### Dependencies
 
-For **Arch Linux**
-
-    pacman -S rxvt-unicode libxft libxinerama
+1. [st - Suckless Terminal](https://st.suckless.org/)
+2. [Nerd Fonts (Hack Nerd Font and Icons)]
 
 ## Installation
 
@@ -50,5 +49,5 @@ like this in your .xinitrc:
 
 ## Configuration
 
-The configuration of dwm is done by creating a custom config.h
+The configuration of dwm is done by creating a custom config.def.h
 and (re)compiling the source code.
